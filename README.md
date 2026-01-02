@@ -43,19 +43,7 @@ I'm a motivated Data Science student with a strong interest in **data analysis, 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![Yassmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassmine-oukhris&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassmine-oukhris&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassmine-oukhris&theme=radical&hide_border=true)
-
-</div>
-
----
 
 
 
@@ -69,12 +57,6 @@ I'm a motivated Data Science student with a strong interest in **data analysis, 
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Machine Learning algorithms
-- Big Data technologies (Spark, Hadoop)
-- Cloud platforms (AWS, Azure)
-- Deep Learning frameworks
 
 ---
 
