@@ -57,22 +57,7 @@ I'm a motivated Data Science student with a strong interest in **data analysis, 
 
 ---
 
-## 📁 Featured Projects
 
-### 🔍 **Data Analysis Dashboard**
-> Interactive dashboard for exploring and visualizing datasets
-> - **Tech:** Streamlit, Plotly, Pandas
-> - Features: Real-time filtering, multiple chart types, data export
-
-### 📈 **Sales Analytics Platform**
-> Business intelligence solution for sales performance tracking
-> - **Tech:** Python, SQL, Power BI
-> - Features: KPI tracking, trend analysis, predictive insights
-
-### 🤖 **Machine Learning Projects**
-> Collection of ML models for classification and regression tasks
-> - **Tech:** Scikit-learn, Pandas, Matplotlib
-> - Algorithms: Linear Regression, Random Forest, SVM
 
 ---
 
