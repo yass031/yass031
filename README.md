@@ -51,9 +51,8 @@ I'm a motivated Data Science student with a strong interest in **data analysis, 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/yassmine-oukhris-b54500306)
-[![Email](yassmineoukhris99@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassmine-oukhris-b54500306)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yassmineoukhris99@gmail.com)
 
 ---
 
